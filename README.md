@@ -123,12 +123,12 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 -End-
 
+# 👤 Author
+Clive kadochi 
+Cybersecurity Internship B083C
 
-👤 Author
-Clive Kadochi 
-Cybersecurity Internship B083
-LinkedIn: https://www.linkedin.com/in/waqaskarim/
- 
-📌 Project Information
-Program Name: Cybersecurity program at Networkwalks | Week: 02 | Repository: GitHub
+LinkedIn:
+www.linkedin.com/in/clive-kadochi-1st-924492261
 
+# 📌 Project Information
+Program Name: Cybersecurity at Networkwalks | Week: 02 | Project: Cybersecurity & Pentesting | Repository: GitHub# CYBERSECURITY-INTERN-WK2-PENETRATIONG-FOOTPRINTING &amp; NETWORK SCANNING PHASES.
