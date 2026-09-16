@@ -86,6 +86,7 @@ Note: The actual subnet, number of hosts and addresses should be replaced with t
 
  5. Risk Analysis / Impact
 Based on the information collected during the footprinting and network scanning activities, I identified the following potential risks.
+
 #	Risk / Finding	Evidence / Observation	Potential Impact	Risk Level
 1	Web technology information exposed	WhatWeb identified WordPress and WP Download Manager	Attackers may use exposed technology/version information to identify software requiring further security review	● Medium
 2	Server IP address identifiable	Nslookup resolved the domain to 192.232.216.135	Provides information about the network location of the web service	● Low
