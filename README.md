@@ -14,8 +14,7 @@
   <img src="https://img.shields.io/badge/Ethical%20Hacking-E87500?style=flat-square&labelColor=000000&logo=kalilinux&logoColor=white" />
   <img src="https://img.shields.io/badge/Clive%20Kadochi%20IT Tech-C00000?style=flat-square" />
 </p>
-
-<p align="center"># 🔐 PENETRATION-TESTING-REPORT-
+<p align="center"># 🔐PENETRATION-TESTING-REPORT-
 
 <p align="center"> # FOOTPRINTING &amp; NETWORK SCANNING PHASES
 
