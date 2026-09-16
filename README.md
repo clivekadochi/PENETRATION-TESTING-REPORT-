@@ -115,7 +115,8 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
  
  <img width="1366" height="768" alt="IMG-20260915-WA0004.jpg" src="https://github.com/user-attachments/assets/" />
  
- 
+ <img width="1366" height="768" alt="3-Screenshot-kali-linux 2026-09-04 185102" src="https://github.com/user-attachments/assets/9843291d-b8a6-4904-b3b3-ebbca4ad3f1e" /> 
+
  
 
  
