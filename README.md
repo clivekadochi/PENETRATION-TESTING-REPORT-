@@ -130,9 +130,8 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 
 #🔗8. Evidences Collected
  <img src="https://github.com/clivekadochi/PENETRATION-TESTING-REPORT-/blob/75fe6a668e185166346cac47fbce3dc98b23614a/IMG-20260915-WA0004.jpg" width="1366" height="768" />
-
-<img src="" width="1366" height="768" />
-<img src="" width="1366" height="768" />
+<img src="https://github.com/clivekadochi/PENETRATION-TESTING-REPORT-/blob/62e01414e7910066f6783a3f6fab4f3e87b50865/IMG-20260915-WA0005.jpg" width="1366" height="768" />
+<img src="https://github.com/clivekadochi/PENETRATION-TESTING-REPORT-/blob/62e01414e7910066f6783a3f6fab4f3e87b50865/IMG-20260915-WA0008.jpg" width="1366" height="768" />
 <img src="" width="1366" height="768" />
 <img src="" width="1366" height="768" />
 <img src="" width="1366" height="768" />
