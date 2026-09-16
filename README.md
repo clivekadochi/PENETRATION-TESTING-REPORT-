@@ -1,4 +1,4 @@
-https://github.com/clivekadochi/PENETRATION-TESTING-REPORT-/blob/75fe6a668e185166346cac47fbce3dc98b23614a/IMG-20260915-WA0009.jpg
+<img https://github.com/clivekadochi/PENETRATION-TESTING-REPORT-/blob/75fe6a668e185166346cac47fbce3dc98b23614a/IMG-20260915-WA0009.jpg />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Skill-Cybersecurity-404040?style=flat-square&labelColor=C00000" />
