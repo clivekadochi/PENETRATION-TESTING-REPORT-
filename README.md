@@ -134,17 +134,9 @@ Finally, I learned that reconnaissance and scanning must always be performed wit
 <img src="https://github.com/clivekadochi/PENETRATION-TESTING-REPORT-/blob/62e01414e7910066f6783a3f6fab4f3e87b50865/IMG-20260915-WA0008.jpg" width="1366" height="768" />
 <img src="https://github.com/clivekadochi/PENETRATION-TESTING-REPORT-/blob/7971685cd7d86809da393499ec26f5aab51f8644/IMG-20260915-WA0009.jpg" width="1366" height="768" />
 <img src="https://github.com/clivekadochi/PENETRATION-TESTING-REPORT-/blob/7971685cd7d86809da393499ec26f5aab51f8644/IMG-20260915-WA0006.jpg" width="1366" height="768" />
-<img src="" width="1366" height="768" />
-<img src="" width="1366" height="768" />
-<img src="" width="1366" height="768" />
-<img src="" width="1366" height="768" />
+<img src="https://github.com/clivekadochi/PENETRATION-TESTING-REPORT-/blob/33ce1f89163e25e3e40fcd809847cfdd83a1e5f8/Port%20Scan1.PNG" width="1366" height="768" />
+<img src="https://github.com/clivekadochi/PENETRATION-TESTING-REPORT-/blob/33ce1f89163e25e3e40fcd809847cfdd83a1e5f8/Topology1.PNG" width="1366" height="768" />
 
- 
- 
- 
-
- 
- 
 
 -End-
 
