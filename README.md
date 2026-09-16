@@ -15,10 +15,8 @@
   <img src="https://img.shields.io/badge/Clive%20Kadochi%20IT Tech-C00000?style=flat-square" />
 </p>
 
-<div align="center"
-
 # 🔐 PENETRATION-TESTING-REPORT-
-# FOOTPRINTING &amp; NETWORK SCANNING PHASES>
+# FOOTPRINTING &amp; NETWORK SCANNING PHASES
 
 
 WEEK2-PM-FINAL REPORT| CYBERSECURITY |  NETWORKWALKS
