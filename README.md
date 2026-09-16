@@ -16,8 +16,7 @@
 </p>
 
 <p align="center"># 🔐PENETRATION-TESTING-REPORT-
-
-<p align="center">                              # FOOTPRINTING &amp; NETWORK SCANNING PHASES
+  # FOOTPRINTING &amp; NETWORK SCANNING PHASES
 
 
 WEEK2-PM-FINAL REPORT| CYBERSECURITY |  NETWORKWALKS
