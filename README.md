@@ -1,4 +1,4 @@
-<img width="1366" height="768" alt="IMG-20260915-WA0004.jpg" src="https://github.com/user-attachments/assets/98c73667-3c12-4ffb-a34a-a87a2cc191ce" />
+<IMG-20260915-WA0004.jpg width="1366" height="768" alt="" src="https://github.com/user-attachments/assets/98c73667-3c12-4ffb-a34a-a87a2cc191ce" />
 
 <p align="center">
   <img src="https://img.shields.io/badge/Skill-Cybersecurity-404040?style=flat-square&labelColor=C00000" />
