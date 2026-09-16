@@ -130,9 +130,9 @@ I also learned that technical findings should be documented clearly. A good cybe
 Finally, I learned that reconnaissance and scanning must always be performed within an authorized scope. These activities were completed as part of the assigned educational cybersecurity lab.
 
 #🔗8. Evidences Collected
- 
- <img src="[https://github.com/clivekadochi/PENETRATION-TESTING-REPORT-/blob/75fe6a668e185166346cac47fbce3dc98b23614a/IMG-20260915-WA0009.jpg](https://github.com/clivekadochi/PENETRATION-TESTING-REPORT-/blob/75fe6a668e185166346cac47fbce3dc98b23614a/IMG-20260915-WA0004.jpg)" width="1366" height="768" />
+ <img src="https://github.com/clivekadochi/PENETRATION-TESTING-REPORT-/blob/75fe6a668e185166346cac47fbce3dc98b23614a/IMG-20260915-WA0009.jpg" width="1366" height="768" />
 
+<img src="" width="1366" height="768" />
 <img src="" width="1366" height="768" />
 <img src="" width="1366" height="768" />
 <img src="" width="1366" height="768" />
