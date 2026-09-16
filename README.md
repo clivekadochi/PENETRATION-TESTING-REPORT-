@@ -1,4 +1,4 @@
-
+IMG-20260915-WA0004.jpg
 <p align="center">
   <img src="https://img.shields.io/badge/Skill-Cybersecurity-404040?style=flat-square&labelColor=C00000" />
   <img src="https://img.shields.io/badge/Ver-KaliLinux%20v7.2-0070C0?style=flat-square&labelColor=000000" />
