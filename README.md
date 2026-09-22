@@ -1,3 +1,6 @@
+<div align="center">
+
+# 🔐 FOOTPRINTING &amp; NETWORK SCANNING PHASES
 
 <p align="center">
   <img src="https://img.shields.io/badge/Skill-Cybersecurity-404040?style=flat-square&labelColor=C00000" />
@@ -17,7 +20,7 @@
 
 <p align="center"># 🔐PENETRATION-TESTING-REPORT-
   
-## 📌 FOOTPRINTING &amp; NETWORK SCANNING PHASES
+
 
 ## 🗒 WEEK2-PM-FINAL REPORT| CYBERSECURITY |  NETWORKWALKS
 
